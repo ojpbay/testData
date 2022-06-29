@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Bob",
+            "lastName": "Smith",
+            "age": 45
+        },
+        {
+            "id": 2,
+            "firstName": "Jim",
+            "lastName": "Jones",
+            "age": 25
+        },
+        {
+            "id": 3,
+            "firstName": "Martha",
+            "lastName": "Stewart",
+            "age": 35
+        },
+        {
+            "id": 4,
+            "firstName": "Craig",
+            "lastName": "David",
+            "age": 27
+        }
+    ]
+}
